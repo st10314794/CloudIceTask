@@ -1,0 +1,136 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+.navbar {
+    border-bottom: 2px solid #007bff; 
+}
+
+
+body {
+    background: linear-gradient(to bottom, #a1c4fd 0%, #c2e9fb 100%);
+}
+
+/*Styling tasks*/
+
+.task-card {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    padding: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.task-card:hover{
+    background-color: #007bff;
+}
+
+
+
+.task-detail {
+    flex-grow: 1;
+    margin-right: 10px;
+}
+
+.button-group {
+    display: flex;
+    gap: 10px;
+}
+
+.link-button {
+    text-decoration: none;
+    padding: 10px 20px;
+    color: white;
+    background-color: #007bff;
+    border-radius: 5px;
+    display: inline-block;
+    text-align: center;
+}
+
+.link-button:hover {
+    background-color: #0056b3;
+}
+
+/* Additional styling for completed tasks */
+.completed {
+    text-decoration: line-through;
+    color: #6c757d;
+}
+
+}
+.is-completed-false {
+    color: #212529;
+}
+
+
+/* Styling linsk*/
+.link-button {
+    display: inline-block;
+    padding: 8px 15px;
+    margin: 5px;
+    background-color: #007bff;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.link-button:hover {
+    background-color: #0056b3;
+    color: white;
+}
+
+
+/* Button Group*/
+.button-group {
+    display: flex;
+    justify-content: center;
+    gap: 8px; /* Adjust the gap */
+}
+
+.button-group a {
+    text-decoration: none;
+    display: inline-block;
+    padding: 8px 12px; /* Adjust padding */
+    background-color: #007bff;
+    color: white;
+    border: 1px solid #0056b3; 
+    border-radius: 4px;
+    transition: background-color 0.2s ease-in-out;
+}
+
+.button-group a:hover {
+    background-color: #0056b3;
+}
+
+
+.button-group a:not(:last-child)::after {
+    content: '|';
+    color: white;
+    padding-left: 8px; 
+}
+
+

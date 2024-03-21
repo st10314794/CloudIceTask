@@ -1,0 +1,29 @@
+﻿@model IEnumerable<ToDoListTwo.Models.Task>
+
+@{
+    ViewData["Title"] = "Tasks";
+}
+
+<h1>Tasks</h1>
+
+<p>
+    <a asp-action="Create" class="link-button">Create New</a>
+</p>
+@foreach (var item in Model) {
+    <div class="task-card">
+        <div class="task-detail">
+            @* <div class="@("is-completed-" + item.IsCompleted)">*@
+            <div class="task-detail @(item.IsCompleted ? "completed" : "")" onclick>
+                @Html.DisplayFor(modelItem => item.Name)
+            </div>
+            <div>
+                @Html.DisplayFor(modelItem => item.DueDate)
+            </div>
+        </div>
+        <div class="button-group">
+            <a asp-action="Edit" asp-route-id="@item.ID" class="link-button">Edit</a>
+            <a asp-action="Details" asp-route-id="@item.ID" class="link-button">Details</a>
+            <a asp-action="Delete" asp-route-id="@item.ID" class="link-button">Delete</a>
+        </div>
+    </div>
+}

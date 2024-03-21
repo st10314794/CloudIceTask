@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mik\\source\\repos\\Skuul\\MVC\\ToDoListTwo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C0B96B-BF1B-4296-B463-C1B12E2B8DE4}|ToDoListTwo\\ToDoListTwo.csproj|c:\\users\\mik\\source\\repos\\skuul\\mvc\\todolisttwo\\todolisttwo\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B5C0B96B-BF1B-4296-B463-C1B12E2B8DE4}|ToDoListTwo\\ToDoListTwo.csproj|solutionrelative:todolisttwo\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C0B96B-BF1B-4296-B463-C1B12E2B8DE4}|ToDoListTwo\\ToDoListTwo.csproj|C:\\Users\\Mik\\source\\repos\\Skuul\\MVC\\ToDoListTwo\\todolisttwo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5C0B96B-BF1B-4296-B463-C1B12E2B8DE4}|ToDoListTwo\\ToDoListTwo.csproj|solutionrelative:todolisttwo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C0B96B-BF1B-4296-B463-C1B12E2B8DE4}|ToDoListTwo\\ToDoListTwo.csproj|C:\\Users\\Mik\\source\\repos\\Skuul\\MVC\\ToDoListTwo\\todolisttwo\\views\\tasks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5C0B96B-BF1B-4296-B463-C1B12E2B8DE4}|ToDoListTwo\\ToDoListTwo.csproj|solutionrelative:todolisttwo\\views\\tasks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C0B96B-BF1B-4296-B463-C1B12E2B8DE4}|ToDoListTwo\\ToDoListTwo.csproj|C:\\Users\\Mik\\source\\repos\\Skuul\\MVC\\ToDoListTwo\\todolisttwo\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5C0B96B-BF1B-4296-B463-C1B12E2B8DE4}|ToDoListTwo\\ToDoListTwo.csproj|solutionrelative:todolisttwo\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C0B96B-BF1B-4296-B463-C1B12E2B8DE4}|ToDoListTwo\\ToDoListTwo.csproj|C:\\Users\\Mik\\source\\repos\\Skuul\\MVC\\ToDoListTwo\\todolisttwo\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5C0B96B-BF1B-4296-B463-C1B12E2B8DE4}|ToDoListTwo\\ToDoListTwo.csproj|solutionrelative:todolisttwo\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C0B96B-BF1B-4296-B463-C1B12E2B8DE4}|ToDoListTwo\\ToDoListTwo.csproj|C:\\Users\\Mik\\source\\repos\\Skuul\\MVC\\ToDoListTwo\\todolisttwo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5C0B96B-BF1B-4296-B463-C1B12E2B8DE4}|ToDoListTwo\\ToDoListTwo.csproj|solutionrelative:todolisttwo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C0B96B-BF1B-4296-B463-C1B12E2B8DE4}|ToDoListTwo\\ToDoListTwo.csproj|C:\\Users\\Mik\\source\\repos\\Skuul\\MVC\\ToDoListTwo\\todolisttwo\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5C0B96B-BF1B-4296-B463-C1B12E2B8DE4}|ToDoListTwo\\ToDoListTwo.csproj|solutionrelative:todolisttwo\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C0B96B-BF1B-4296-B463-C1B12E2B8DE4}|ToDoListTwo\\ToDoListTwo.csproj|C:\\Users\\Mik\\source\\repos\\Skuul\\MVC\\ToDoListTwo\\todolisttwo\\views\\tasks\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5C0B96B-BF1B-4296-B463-C1B12E2B8DE4}|ToDoListTwo\\ToDoListTwo.csproj|solutionrelative:todolisttwo\\views\\tasks\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C0B96B-BF1B-4296-B463-C1B12E2B8DE4}|ToDoListTwo\\ToDoListTwo.csproj|C:\\Users\\Mik\\source\\repos\\Skuul\\MVC\\ToDoListTwo\\todolisttwo\\views\\tasks\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5C0B96B-BF1B-4296-B463-C1B12E2B8DE4}|ToDoListTwo\\ToDoListTwo.csproj|solutionrelative:todolisttwo\\views\\tasks\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C0B96B-BF1B-4296-B463-C1B12E2B8DE4}|ToDoListTwo\\ToDoListTwo.csproj|C:\\Users\\Mik\\source\\repos\\Skuul\\MVC\\ToDoListTwo\\todolisttwo\\views\\tasks\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5C0B96B-BF1B-4296-B463-C1B12E2B8DE4}|ToDoListTwo\\ToDoListTwo.csproj|solutionrelative:todolisttwo\\views\\tasks\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C0B96B-BF1B-4296-B463-C1B12E2B8DE4}|ToDoListTwo\\ToDoListTwo.csproj|C:\\Users\\Mik\\source\\repos\\Skuul\\MVC\\ToDoListTwo\\todolisttwo\\views\\tasks\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5C0B96B-BF1B-4296-B463-C1B12E2B8DE4}|ToDoListTwo\\ToDoListTwo.csproj|solutionrelative:todolisttwo\\views\\tasks\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C0B96B-BF1B-4296-B463-C1B12E2B8DE4}|ToDoListTwo\\ToDoListTwo.csproj|C:\\Users\\Mik\\source\\repos\\Skuul\\MVC\\ToDoListTwo\\todolisttwo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5C0B96B-BF1B-4296-B463-C1B12E2B8DE4}|ToDoListTwo\\ToDoListTwo.csproj|solutionrelative:todolisttwo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C0B96B-BF1B-4296-B463-C1B12E2B8DE4}|ToDoListTwo\\ToDoListTwo.csproj|C:\\Users\\Mik\\source\\repos\\Skuul\\MVC\\ToDoListTwo\\todolisttwo\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5C0B96B-BF1B-4296-B463-C1B12E2B8DE4}|ToDoListTwo\\ToDoListTwo.csproj|solutionrelative:todolisttwo\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mik\\source\\repos\\Skuul\\MVC\\ToDoListTwo\\ToDoListTwo\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ToDoListTwo\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Mik\\source\\repos\\Skuul\\MVC\\ToDoListTwo\\ToDoListTwo\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "ToDoListTwo\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T23:49:26.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mik\\source\\repos\\Skuul\\MVC\\ToDoListTwo\\ToDoListTwo\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ToDoListTwo\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Mik\\source\\repos\\Skuul\\MVC\\ToDoListTwo\\ToDoListTwo\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ToDoListTwo\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T22:33:47.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mik\\source\\repos\\Skuul\\MVC\\ToDoListTwo\\ToDoListTwo\\Views\\Tasks\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ToDoListTwo\\Views\\Tasks\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Mik\\source\\repos\\Skuul\\MVC\\ToDoListTwo\\ToDoListTwo\\Views\\Tasks\\Delete.cshtml",
+              "RelativeToolTip": "ToDoListTwo\\Views\\Tasks\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T21:55:08.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mik\\source\\repos\\Skuul\\MVC\\ToDoListTwo\\ToDoListTwo\\Views\\Tasks\\Details.cshtml",
+              "RelativeDocumentMoniker": "ToDoListTwo\\Views\\Tasks\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Mik\\source\\repos\\Skuul\\MVC\\ToDoListTwo\\ToDoListTwo\\Views\\Tasks\\Details.cshtml",
+              "RelativeToolTip": "ToDoListTwo\\Views\\Tasks\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T21:54:34.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mik\\source\\repos\\Skuul\\MVC\\ToDoListTwo\\ToDoListTwo\\Views\\Tasks\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ToDoListTwo\\Views\\Tasks\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Mik\\source\\repos\\Skuul\\MVC\\ToDoListTwo\\ToDoListTwo\\Views\\Tasks\\Edit.cshtml",
+              "RelativeToolTip": "ToDoListTwo\\Views\\Tasks\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T21:48:20.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\Mik\\source\\repos\\Skuul\\MVC\\ToDoListTwo\\ToDoListTwo\\Models\\Task.cs",
+              "RelativeDocumentMoniker": "ToDoListTwo\\Models\\Task.cs",
+              "ToolTip": "C:\\Users\\Mik\\source\\repos\\Skuul\\MVC\\ToDoListTwo\\ToDoListTwo\\Models\\Task.cs",
+              "RelativeToolTip": "ToDoListTwo\\Models\\Task.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T20:30:41.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mik\\source\\repos\\Skuul\\MVC\\ToDoListTwo\\ToDoListTwo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ToDoListTwo\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Mik\\source\\repos\\Skuul\\MVC\\ToDoListTwo\\ToDoListTwo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ToDoListTwo\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T20:27:14.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mik\\source\\repos\\Skuul\\MVC\\ToDoListTwo\\ToDoListTwo\\Views\\Tasks\\Index.cshtml",
+              "RelativeDocumentMoniker": "ToDoListTwo\\Views\\Tasks\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Mik\\source\\repos\\Skuul\\MVC\\ToDoListTwo\\ToDoListTwo\\Views\\Tasks\\Index.cshtml",
+              "RelativeToolTip": "ToDoListTwo\\Views\\Tasks\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T20:26:48.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Mik\\source\\repos\\Skuul\\MVC\\ToDoListTwo\\ToDoListTwo\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "ToDoListTwo\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Mik\\source\\repos\\Skuul\\MVC\\ToDoListTwo\\ToDoListTwo\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "ToDoListTwo\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAAAIEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-20T20:25:49.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mik\\source\\repos\\Skuul\\MVC\\ToDoListTwo\\ToDoListTwo\\Views\\Tasks\\Create.cshtml",
+              "RelativeDocumentMoniker": "ToDoListTwo\\Views\\Tasks\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Mik\\source\\repos\\Skuul\\MVC\\ToDoListTwo\\ToDoListTwo\\Views\\Tasks\\Create.cshtml",
+              "RelativeToolTip": "ToDoListTwo\\Views\\Tasks\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T20:24:18.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mik\\source\\repos\\Skuul\\MVC\\ToDoListTwo\\ToDoListTwo\\Program.cs",
+              "RelativeDocumentMoniker": "ToDoListTwo\\Program.cs",
+              "ToolTip": "C:\\Users\\Mik\\source\\repos\\Skuul\\MVC\\ToDoListTwo\\ToDoListTwo\\Program.cs",
+              "RelativeToolTip": "ToDoListTwo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T19:57:52.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "C:\\Users\\Mik\\source\\repos\\Skuul\\MVC\\ToDoListTwo\\ToDoListTwo\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "ToDoListTwo\\Controllers\\TasksController.cs",
+              "ToolTip": "C:\\Users\\Mik\\source\\repos\\Skuul\\MVC\\ToDoListTwo\\ToDoListTwo\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "ToDoListTwo\\Controllers\\TasksController.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAuwGAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T19:38:26.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\Mik\\source\\repos\\Skuul\\MVC\\ToDoListTwo\\ToDoListTwo\\Models\\SeedData.cs",
+              "RelativeDocumentMoniker": "ToDoListTwo\\Models\\SeedData.cs",
+              "ToolTip": "C:\\Users\\Mik\\source\\repos\\Skuul\\MVC\\ToDoListTwo\\ToDoListTwo\\Models\\SeedData.cs",
+              "RelativeToolTip": "ToDoListTwo\\Models\\SeedData.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T19:47:34.318Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
